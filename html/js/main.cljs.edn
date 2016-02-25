@@ -1,0 +1,2 @@
+{:require [vidioting.client]
+ :compiler-options {:asset-path "js/main.out"}}
